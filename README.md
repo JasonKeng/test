@@ -1,7 +1,4 @@
 # test
 
 AccessKey ID
-LTAI5t9DdSD3zsWvgEZYxdWd
-
-AccessKey Secret
-dUazuqOYGXeZVtVqbfNwLka5tq6avt
+LTAI4GCn9Ac18z3UG3ayndHL
